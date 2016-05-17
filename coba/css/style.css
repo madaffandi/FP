@@ -910,7 +910,7 @@ h3.title span {
 	content: "\2605";
 	position: absolute;
 	left: 0;
-	color: #F07818;
+	color: #h9h9h9;
 }
 .ofr p {
     font-size: 1.1em;
@@ -981,13 +981,13 @@ h3.title span {
     font-weight: 700;
 }
 .breadcrumb1 li a{
-	color:#d8703f;
+	color:#9a9a9a;
 	text-decoration:none;
 }
 .breadcrumb1 li span {
     left: 0em;
     padding-right: 1em;
-    color: #D8703F;
+    color: #9a9a9a;
 }
 .breadcrumb > .active {
     color: #FFF;
@@ -1012,7 +1012,7 @@ h3.title span {
 	box-shadow: 0px 0px 5px 1px #777;
 }
 .product-model-sec {
-    float: right;
+    margin-left: 12%;
     padding: 0;
 }
 /*--products-left--*/
@@ -2495,14 +2495,14 @@ ul.dropdown-menu.multi-column.multi-column1 .menu-grids:nth-child(3) {
     width: 28%;
 }
 button.navbar-toggle {
-    border-color: #F07818 !important;
-    background-color: #F07818;
+    border-color: #h9h9h9 !important;
+    background-color: #h9h9h9;
 }
 button.navbar-toggle {
     margin-right: 48%;
 }
 .navbar-default .navbar-toggle:hover, .navbar-default .navbar-toggle:focus {
-    background-color: #F07818;
+    background-color: #h9h9h9;
 }
 .navbar-default .navbar-toggle .icon-bar {
     background-color: #F2F6F7;
