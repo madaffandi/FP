@@ -1,7 +1,5 @@
 body {
-    background: url(https://s3-us-west-2.amazonaws.com/s.cdpn.io/18515/9284591662_38b0438418_h.jpg) 25%/cover;  
-    height: 100vh;
-    margin: 0;
+    
 }
 
 input { 
@@ -33,18 +31,4 @@ input {
 
 ::-moz-focus-inner {
     padding: 0;
-}
-
-
-/* Image Credit */
-a {
-    position: absolute;
-    bottom: 10px;
-    right: 10px;
-    color: skyblue;
-    background: black;
-    display: block;
-    padding: 3px 8px;
-    font-size: 15px;
-    text-decoration: none;
 }
